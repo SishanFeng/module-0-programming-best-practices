@@ -1,0 +1,6 @@
+# Step 7 依赖（虚拟环境位于仓库外的 ../venv）
+torch==2.14.0
+torchvision==0.29.0
+transformers==5.17.0
+datasets==5.0.1
+pillow==12.3.0
